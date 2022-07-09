@@ -1,0 +1,118 @@
+header {
+    display: flex;
+    margin: 0 0 0 20px;
+}
+
+header ul {
+    margin-left: 720px;
+}
+
+header li {
+    float: left;
+    margin: 10px 40px 10px 45px;
+    list-style: none;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+footer {
+    margin: 40px 40px;
+    text-align: center;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 400px 0;
+}
+
+.skill1 h2 {
+    margin: 50px 400px;
+}
+
+.skill1-2 li {
+    margin: 30px 350px 50px;
+    font-weight: 700;
+
+}
+
+#contents {
+    display: flex;
+}
+
+
+.skill2 h2 {
+    margin: 50px -50px;
+
+}
+
+.skill2-2 li {
+    margin: 50px -90px;
+    font-weight: 700;
+
+}
+
+.workssection {
+    background-color: #d3d3d3;
+}
+
+#works h2 {
+    margin-left: 100px;
+}
+
+#contents2 {
+    display: flex;
+}
+
+.skill3 h2 {
+    margin: 50px 400px;
+}
+
+.skill3-2 li {
+    margin: 30px 350px 50px;
+    font-weight: 700;
+}
+
+.skill4 h2 {
+    margin: 50px -100px;
+
+}
+
+.skill4-2 li {
+    margin: 50px -140px;
+    font-weight: 700;
+
+}
+
+#contents3 {
+    display: flex;
+}
+
+.skill5 h2 {
+    margin: 50px 400px;
+}
+
+.skill5-2 li {
+    margin: 30px 350px 50px;
+    font-weight: 700;
+}
+
+.skill6 h2 {
+    margin: 50px -60px;
+
+}
+
+.skill6-2 li {
+    margin: 50px -100px;
+    font-weight: 700;
+
+}
